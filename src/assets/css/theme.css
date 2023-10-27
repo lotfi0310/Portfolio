@@ -1910,6 +1910,15 @@ a.up-btn:hover {
     z-index: 999999999;
 }
 
+.header-area .main-menu ul.navbarmneuclass li.current a {
+    color: #00a63a; /* Change to your desired color for active links */
+}
+
+.logo img {
+   width: 100px;
+    height: 100px;
+}
+
 .header-area.sticky a.up-btn{
     visibility: visible;
     opacity: 1;
