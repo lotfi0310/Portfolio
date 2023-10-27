@@ -388,7 +388,7 @@ a.contact-btn:hover{
 }
 .wlc-author-1 {
     position: absolute;
-    right   : 5%;
+    right   : 0%;
     width   : 60%;
     bottom  : 0;
     height  : 90%;
@@ -396,7 +396,7 @@ a.contact-btn:hover{
 }
 
 .author-1 img {
-    height: 100%;
+    height: 80%;
     width : auto;
 }
 
