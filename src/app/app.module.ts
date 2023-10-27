@@ -3,14 +3,17 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LotfiPortfoliomoduleModule } from './lotfi-portfoliomodule/lotfi-portfoliomodule.module';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    LotfiPortfoliomoduleModule
   ],
   providers: [],
   bootstrap: [AppComponent]
